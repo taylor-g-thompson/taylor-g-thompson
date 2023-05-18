@@ -3,7 +3,7 @@
 - 👀 I’m interested in software and web development.
 - 🌱 I’m currently learning Java & JavaScript.
 - 📫 How to reach me:
-        email: taylor.thompson@myyaoo.com
+        email: taylor.thompson@myyahoo.com
 
 <!---
 taylor-g-thompson/taylor-g-thompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
