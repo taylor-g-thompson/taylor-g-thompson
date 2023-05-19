@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taylor-g-thompson!
 - 💞️ Computer Science Graduate
 - 👀 I’m interested in software and web development.
-- 🌱 I’m currently learning Java & JavaScript.
+- 🌱 C++, Python, C
 - 📫 How to reach me:
         email: taylor.thompson@myyahoo.com
 
