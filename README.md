@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taylor-g-thompson!
 - 💞️ Computer Science Graduate
-- 👀 I’m interested in software and web development.
+- 👀 Graphic Design.
 - 🌱 C++, Python, C
 - 📫 How to reach me:
         taylor.thompson@myyahoo.com
